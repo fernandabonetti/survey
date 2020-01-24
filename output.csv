@@ -1,0 +1,29 @@
+Dynamic DDoS Defense Resource Allocation Using Network Function Virtualization,2017,"Jakaria, A.H.M. and Rashidi, Bahman and Rahman, M. Ashiqur and Fung, Carol and Yang, Wei",SDN-NFVSec ’17
+QoS-Aware Task Offloading in Distributed Cloudlets with Virtual Network Function Services,2017,"Jia, Mike and Liang, Weifa and Xu, Zichuan",MSWiM ’17
+Adaptive Virtual Network Provisioning,2010,"Houidi, Ines and Louati, Wajdi and Zeghlache, Djamal and Papadimitriou, Panagiotis and Mathy, Laurent",VISA ’10
+Attractor Selection-Based Virtual Network Topology Control with Dynamic Threshold Reconfiguration for Managed Self-Organization Network,2012,"Kamamura, Shohei and Koizumi, Yuki and Shimazaki, Daisaku and Miyamura, Takashi and Arakawa, Shin’ichi and Shiomoto, Kohei and Hiramatsu, Atsushi and Murata, Masayuki",ITC ’12
+NFV Middlebox Placement with Balanced Set-up Cost and Bandwidth Consumption,2018,"Chen, Yang and Wu, Jie",ICPP 2018
+NFVdeep: Adaptive Online Service Function Chain Deployment with Deep Reinforcement Learning,2019,"Xiao, Yikai and Zhang, Qixia and Liu, Fangming and Wang, Jia and Zhao, Miao and Zhang, Zhongxing and Zhang, Jiaxing",IWQoS ’19
+Integrated NFV/SDN Architectures: A Systematic Literature Review,2019,"Bonfim, Michel S. and Dias, Kelvin L. and Fernandes, Stenio F. L.",ACM Comput. Surv.
+Simulated Annealing Based Resource Allocation for Cloud Data Centers,2013,"Wang, Wenbo and Chang, Xiaolin and Liu, Jiqiang and Wang, Bin",GECCO ’13 Companion
+GEN: A GPU-Accelerated Elastic Framework for NFV,2018,"Zheng, Zhilong and Bi, Jun and Sun, Chen and Yu, Heng and Hu, Hongxin and Meng, Zili and Wang, Shuhe and Gao, Kai and Wu, Jianping",APNet ’18
+KLEIN: A Minimally Disruptive Design for an Elastic Cellular Core,2016,"Qazi, Zafar Ayyub and Penumarthi, Phani Krishna and Sekar, Vyas and Gopalakrishnan, Vijay and Joshi, Kaustubh and Das, Samir R.",SOSR ’16
+Dynamic Resource Allocation Based on Q-Learning for VNE in Fiber-Wireless (FiWi) Access Network,2017,"Ou, QingHai and Zhao, Honghao and Ye, Yuepian and Yu, Xiaohui and Liu, Zhu and Liao, Xiao and Liu, Lin",ICGSP ’17
+Kraken: Towards Elastic Performance Guarantees in Multi-Tenant Data Centers,2015,"Fuerst, Carlo and Schmid, Stefan and Suresh, Lalith and Costa, Paolo",SIGMETRICS ’15
+NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains,2017,"Kulkarni, Sameer G. and Zhang, Wei and Hwang, Jinho and Rajagopalan, Shriram and Ramakrishnan, K. K. and Wood, Timothy and Arumaithurai, Mayutan and Fu, Xiaoming",SIGCOMM ’17
+An Adaptive Resource Provisioning Scheme for Effective QoS Maintenance in the IaaS Cloud,2015,"Adegboyega, Abiola",VT15
+ETOM Mapping onto NFV Framework: IMS Use Case,2017,"Seraoui, Youssef and Belmekki, Mostafa and Bellafkih, Mostafa and Raouyane, Brahim",ICCWCS’17
+Dynamic Network Function (DNF): Service Chain Placement and Bottleneck Removal for Edge-Fog-Cloud Interplay,2018,"Hirwe, Anish and Aich, Mrinal and Kataoka, Kotaro",AINTEC ’18
+SAFE: Service Availability via Failure Elimination Through VNF Scaling,2019,"Xia, Rui and Dai, Haipeng and Zheng, Jiaqi and Gu, Rong and Wang, Xiaoyu and Chen, Guihai",ICPP 2019
+Energy Efficient Resource Management in Virtualized Cloud Data Centers,2010,"Beloglazov, Anton and Buyya, Rajkumar",CCGRID ’10
+Adding Support for Automatic Enforcement of Security Policies in NFV Networks,2019,"Basile, Cataldo and Valenza, Fulvio and Lioy, Antonio and Lopez, Diego R. and Pastor Perales, Antonio",IEEE/ACM Trans. Netw.
+Data-Driven Resource Flexing for Network Functions Visualization,2018,"Cao, Lianjie and Fahmy, Sonia and Sharma, Puneet and Zhe, Shandian",ANCS ’18
+How Should I Slice My Network? A Multi-Service Empirical Evaluation of Resource Sharing Efficiency,2018,"Marquez, Cristina and Gramaglia, Marco and Fiore, Marco and Banchs, Albert and Costa-Perez, Xavier",MobiCom ’18
+ORCA: An <u>ORC</U>hestration <u>a</U>utomata for Configuring VNFs,2017,"Iglesias, Jesus Omana and Aroca, Jordi Arjona and Hilt, Volker and Lugones, Diego",Middleware ’17
+VOLTAIC: Volume Optimization Layer to Assign Cloud Resources,2012,"Carvalho, Hugo E. T. and Duarte, Otto Carlos M. B.",ICICS ’12
+Towards Efficient Server Architecture for Virtualized Network Function Deployment: Implications and Implementations,2016,"Hu, Yang and Li, Tao",MICRO-49
+DaVinci: Dynamically Adaptive Virtual Networks for a Customized Internet,2008,"He, Jiayue and Zhang-Shen, Rui and Li, Ying and Lee, Cheng-Yen and Rexford, Jennifer and Chiang, Mung",CoNEXT ’08
+VrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs,2019,"Ayala-Romero, Jose A. and Garcia-Saavedra, Andres and Gramaglia, Marco and Costa-Perez, Xavier and Banchs, Albert and Alcaraz, Juan J.",MobiCom ’19
+New Kid on the Block: Network Functions Visualization: From Big Boxes to Carrier Clouds,2018,"Nobach, Leonhard and Hohlfeld, Oliver and Hausheer, David",SIGCOMM Comput. Commun. Rev.
+We Don’t Need No Licensing Server,2018,"Sharma, Puneet and Raghuramu, Arun and Lee, David and Saxena, Vinay and Chuah, Chen-Nee",HotNets ’18
+Automated Profiling of Virtualized Media Processing Functions Using Telemetry and Machine Learning,2018,"Mekuria, Rufael and McGrath, Michael J. and Riccobene, Vincenzo and Bayon-Molino, Victor and Tselios, Christos and Thomson, John and Dobrodub, Artem",MMSys ’18
