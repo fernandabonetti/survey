@@ -1,0 +1,96 @@
+Virtual Network Function Dynamic Deployment Algorithm Based on Prediction for 5G Network Slicing,SCOPUS
+Online NFV-Enabled multicasting in mobile edge cloud networks,SCOPUS
+Machine learning-based method for prediction of virtual network function resource demands,SCOPUS
+Latency-aware Virtualized Network Function provisioning for distributed edge clouds,SCOPUS
+ElasticSFC: Auto-scaling techniques for elastic service function chaining in network functions virtualization-based clouds,SCOPUS
+On the scaling of virtualized network functions,SCOPUS
+A virtual network resource allocation framework based on SR-IOV,SCOPUS
+Elastic virtual network function orchestration policy based on workload prediction,SCOPUS
+An NFV framework for supporting elastic scaling of service function chain,SCOPUS
+Improving Traffic Forecasting for 5G Core Network Scalability: A Machine Learning Approach,SCOPUS
+Auto-Scaling VNFs Using Machine Learning to Improve QoS and Reduce Cost,SCOPUS
+Data-driven resource flexing for network functions virtualization,SCOPUS
+A method for adaptive resource adjustment of dynamic service function chain,SCOPUS
+An Efficient Algorithm for Virtual Network Function Scaling,SCOPUS
+Dynamic resource allocation based on Q-learning for VNE in Fiber-wireless (FiWi) access network,SCOPUS
+An adaptive resource provisioning scheme for effective qos maintenance in the IaaS Cloud,SCOPUS
+A neuro-fuzzy approach to self-management of virtual network resources,SCOPUS
+Efficient auto-scaling approach in the telco cloud using self-learning algorithm,SCOPUS
+OBM - An optimal bandwidth management strategy to virtual machines in cloud environment using predictive analytics,SCOPUS
+Dynamic bandwidth allocation for preventing congestion in data center networks,SCOPUS
+DaVinci: Dynamically adaptive virtual networks for a customized internet,SCOPUS
+GEN: A GPU-Accelerated Elastic Framework for NFV,ACM
+Dynamic Resource Allocation Based on Q-Learning for VNE in Fiber-Wireless (FiWi) Access Network,ACM
+An Adaptive Resource Provisioning Scheme for Effective QoS Maintenance in the IaaS Cloud,ACM
+Dynamic Network Function (DNF): Service Chain Placement and Bottleneck Removal for Edge-Fog-Cloud Interplay,ACM
+SAFE: Service Availability via Failure Elimination Through VNF Scaling,ACM
+Data-Driven Resource Flexing for Network Functions Visualization,ACM
+ORCA: An <u>ORC</U>hestration <u>a</U>utomata for Configuring VNFs,ACM
+VOLTAIC: Volume Optimization Layer to Assign Cloud Resources,ACM
+VrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs,ACM
+Elastic Virtual Network Function Orchestration Policy Based on Workload Prediction,IEEE
+A Deep Learning Approach to VNF Resource Prediction using Correlation between VNFs,IEEE
+Base Station Popularity-Based Dynamic Resource Allocation for VNF,IEEE
+Machine Learning-Based Method for Prediction of Virtual Network Function Resource Demands,IEEE
+Elastic Network Service Chain with Fine-Grained Vertical Scaling,IEEE
+Resource Aware Chaining and Adaptive Capacity Scaling for Service Function Chains in Distributed Cloud Network,IEEE
+Efficient Auto-Scaling Approach in the Telco Cloud Using Self-Learning Algorithm,IEEE
+ENSC: Multi-Resource Hybrid Scaling for Elastic Network Service Chain in Clouds,IEEE
+Virtualized traffic monitoring function and resource auto-scaling in software-defined networks,IEEE
+Customizable Function Chains: Managing Service Chain Variability in Hybrid NFV Networks,IEEE
+Proposal and Investigation of a Reconfiguration Cost Aware Policy for Resource Allocation in Multi-Provider NFV Infrastructures Interconnected by Elastic Optical Networks,IEEE
+Quality Audit and Resource Brokering for Network Functions Virtualization (NFV) Orchestration in Hybrid Clouds,IEEE
+Data Driven Resource Allocation for NFV-Based Internet of Things,IEEE
+Dynamic Network Function Instance Scaling Based on Traffic Forecasting and VNF Placement in Operator Data Centers,IEEE
+Resource Allocation Methods Considering Residual Link Bandwidth for Service Function Chaining Design,IEEE
+Offline SLA-Constrained Deep Learning for 5G Networks Reliable and Dynamic End-to-End Slicing,IEEE
+Adaptive Resource Provisioning based on Application State,IEEE
+Elastic and Efficient Virtual Network Provisioning for Cloud-Based Multi-tier Applications,IEEE
+Optimizing Network Slice Dimensioning via Resource Pricing,IEEE
+Autonomic resource arbitration and service-continuable network function migration along service function chains,IEEE
+A Method for Adaptive Resource Adjustment of Dynamic Service Function Chain,IEEE
+A Dynamic Allocation Algorithm for Physical Carrier Resource in BBU Pool of Virtualized Wireless Network,IEEE
+Experimental results on the use of genetic algorithms for scaling virtualized network functions,IEEE
+Smart Scaling of the 5G Core Network: An RNN-Based Approach,IEEE
+Evaluating allocation paradigms for multi-objective adaptive provisioning in virtualized networks,IEEE
+Hysteretic Mechanism for 5G Hybrid Evolved Packet Core Resource Management,IEEE
+Joint Optimization of Resource Allocation and Service Performance in vEPC Using Reinforcement Learning,IEEE
+Dynamic Reservation and Deep Reinforcement Learning Based Autonomous Resource Slicing for Virtualized Radio Access Networks,IEEE
+Network Resource Allocation System for QoE-Aware Delivery of Media Services in 5G Networks,IEEE
+Dynamic Auto-scaling of VNFs based on Task Execution Patterns,IEEE
+A Queuing Based Dynamic Auto Scaling Algorithm for the LTE EPC Control Plane,IEEE
+Virtualized Network Coding Functions on the Internet,IEEE
+Dynamic Allocation of Processing Resources in Cloud-RAN for a Virtualised 5G Mobile Network,IEEE
+Seamless Support of Low Latency Mobile Applications with NFV-Enabled Mobile Edge-Cloud,IEEE
+MDP and Machine Learning-Based Cost-Optimization of Dynamic Resource Allocation for Network Function Virtualization,IEEE
+Sparse Regression Model to Predict a Server Load for Dynamic Adjustments of Server Resources,IEEE
+On the Scaling of Virtualized Network Functions,IEEE
+Data-driven Resource Allocation in Virtualized Environments,IEEE
+Efficient reconfigurable bandwidth allocation mechanism for virtual network,IEEE
+Proposal and Investigation of an Optical Reconfiguration Cost Aware Policy for Resource Allocation in Network Function Virtualization Infrastructures,IEEE
+Design and evaluation of learning algorithms for dynamic resource management in virtual networks,IEEE
+Dynamic Reservation and Deep Reinforcement Learning based Autonomous Resource Management for wireless Virtual Networks,IEEE
+Prognostic-Reactive NFV Resource Allocation Method for Implementation in Virtualized Mobile Network EPC of Ukraine,IEEE
+Self-managed resources in network virtualisation environments,IEEE
+Adaptive Virtual Network Slices for Diverse IoT Services,IEEE
+Neural network-based autonomous allocation of resources in virtual networks,IEEE
+Software Defined Storage for cooperative Mobile Edge Computing systems,IEEE
+Virtual network reconfiguration in elastic optical path networks for future bandwidth allocation,IEEE
+A new resource management algorithm of a virtual internet architecture,IEEE
+HDSO: A High-Performance Dynamic Service Orchestration Algorithm in Hybrid NFV Networks,IEEE
+Adaptive SLA-based elasticity management algorithms for a virtualized IP multimedia subsystem,IEEE
+IoNCloud: Exploring application affinity to improve utilization and predictability in datacenters,IEEE
+Toward Optimal Resource Allocation of Virtualized Network Functions for Hierarchical Datacenters,IEEE
+StarCube: An On-Demand and Cost-Effective Framework for Cloud Data Center Networks with Performance Guarantee,IEEE
+Resource Allocation in Adaptive Virtualized Wireless Networks with Mobile Edge Computing,IEEE
+SeReNe: On Establishing Secure and Resilient Networking Services for an SDN-based Multi-tenant Datacenter Environment,IEEE
+A self-stabilizing framework for dynamic bandwidth allocation in virtual networks,IEEE
+Performance Modeling of Softwarized Network Services Based on Queuing Theory with Experimental Validation,IEEE
+Dynamic resource management in SDN-based virtualized networks,IEEE
+Filtering observations to improve resource control in virtual computer and network systems,IEEE
+Profile-Based Resource Allocation for Virtualized Network Functions,IEEE
+Joint Spectrum Reservation and On-Demand Request for Mobile Virtual Network Operators,IEEE
+The Next Generation Heterogeneous Satellite Communication Networks: Integration of Resource Management and Deep Reinforcement Learning,IEEE
+An Efficient and Lightweight Load Forecasting for Proactive Scaling in 5G Mobile Networks,IEEE
+Processing Time Aware Resource Allocation in Software Defined RANs,IEEE
+NFV Closed-loop Automation Experiments using Deep Reinforcement Learning,IEEE
